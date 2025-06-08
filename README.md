@@ -151,12 +151,19 @@ python request.py
 Housing_PP/
 │
 ├── clean_data.csv              # Preprocessed dataset
+
 ├── XGBoostingModel.pkl         # Trained model
+
 ├── Requirement.txt             # Python dependencies
+
 ├── app.py                      # Flask backend with /predict and /predict_api
+
 ├── server.py                   # Alternative Flask API route
+
 ├── request.py                  # API testing script
+
 ├── Housing.ipynb               # Jupyter notebook with data EDA
+
 └── README.md                   # Project documentation
 
 # 🧠 Data Overview
