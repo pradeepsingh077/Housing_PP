@@ -94,8 +94,10 @@ git clone https://github.com/pradeepsingh077/Housing_PP.git
 cd Housing_PP
 ```
 # Create virtual environment (optional)
+```bash
 python -m venv venv
 source venv/bin/activate  # on Windows: venv\Scripts\activate
+```
 
 # Install dependencies
 ```bash
@@ -223,6 +225,8 @@ See the LICENSE.md file for full license text.
 
 # 📬 Contact
 Author: Pradeep Singh
+
 📧 Email: pradeepsingh.psk610@gmail.com
+
 🌐 LinkedIn: linkedin.com/in/pradeep-singh-585931230
 
