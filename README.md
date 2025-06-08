@@ -142,15 +142,17 @@ JSON input (ideal for programmatic use)
 # 📤 Prediction Example
 Use the request.py script to test the API:
 
+```bash
 python request.py
-# 🗂️ Directory Structure
+```
+
+## 🗂️ Directory Structure
 
 Housing_PP/
 │
 ├── clean_data.csv              # Preprocessed dataset
 ├── XGBoostingModel.pkl         # Trained model
 ├── Requirement.txt             # Python dependencies
-│
 ├── app.py                      # Flask backend with /predict and /predict_api
 ├── server.py                   # Alternative Flask API route
 ├── request.py                  # API testing script
