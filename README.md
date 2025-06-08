@@ -148,23 +148,24 @@ python request.py
 
 ## 🗂️ Directory Structure
 
-Housing_PP/
+Housing_PP
+/
 │
-├── clean_data.csv              # Preprocessed dataset
+├── clean_data.csv                                               # Preprocessed dataset
 
-├── XGBoostingModel.pkl         # Trained model
+├── XGBoostingModel.pkl                                          # Trained model
 
-├── Requirement.txt             # Python dependencies
+├── Requirement.txt                                              # Python dependencies
 
-├── app.py                      # Flask backend with /predict and /predict_api
+├── app.py                                                       # Flask backend with /predict and /predict_api
 
-├── server.py                   # Alternative Flask API route
+├── server.py                                                    # Alternative Flask API route
 
-├── request.py                  # API testing script
+├── request.py                                                   # API testing script
 
-├── Housing.ipynb               # Jupyter notebook with data EDA
+├── Housing.ipynb                                                # Jupyter notebook with data EDA
 
-└── README.md                   # Project documentation
+└── README.md                                                    # Project documentation
 
 # 🧠 Data Overview
 The dataset contains the following features:
