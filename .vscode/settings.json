@@ -1,0 +1,4 @@
+{
+    "editor.codeActionWidget.includeNearbyQuickFixes": true,
+    "code-runner.fileDirectoryAsCwd": true
+}
