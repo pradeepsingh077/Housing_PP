@@ -92,14 +92,15 @@ The goal is to simulate a production-grade environment for deploying and interac
 # Clone the repository
 git clone https://github.com/pradeepsingh077/Housing_PP.git
 cd Housing_PP
-
+```
 # Create virtual environment (optional)
 python -m venv venv
 source venv/bin/activate  # on Windows: venv\Scripts\activate
 
 # Install dependencies
+```bash
 pip install -r Requirement.txt
-
+```
 # ⚙️ How It Works
 The model is trained and saved as XGBoostingModel.pkl.
 
